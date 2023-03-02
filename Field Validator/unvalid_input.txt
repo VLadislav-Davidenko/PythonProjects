@@ -1,0 +1,5 @@
+Name: JohnDoe
+e-mail: john..DoE@company.com
+Age: 25y
+Website: www@taltech.ee
+BusinessTime: 26:00-17:73
